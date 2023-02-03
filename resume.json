@@ -1,0 +1,82 @@
+{
+    "basics": {
+      "name": "Vijay K",
+      "label": "Programmer",
+      "email": "vijaysachinvij23@gmail.com",
+      "phone": "7010993660",
+      "summary": "Vijay from Tiruvannamalai. I earned degrees from the Anna University Specialist in Mechanical Engineering, After I earned diploma from Digital Acdemy 360 Specialist in Digital Marketing, I have 4+years Experience in Digital Marketing, Currently Im learing Full stack Development From Guvi",
+      "location": {
+        "address": "NO.35 Thirunagar",
+        "Pincode": "606601",
+        "city": "Tiruvannamalai",
+        "state": "Tamil Nadu"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "VIJAY K",
+          "url": "https://www.linkedin.com/in/vrdigitalmarket/"
+        },
+        {
+          "network": "Gmail",
+          "username": "vijaysachinvij23@gmail.com"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Ovantica",
+        "location": "Chennai",
+        "description": "Ovantica is a online Platform to sell Electroinc Goods",
+        "position": "Digital Marketing Executive",
+        "url": "http://ovantica.com",
+        "startDate": "13-06-2020",
+        "endDate": "30-07-2021",
+        "summary": "In Ovantica I Worked Lot of campaigns and maintain All social media platforms",
+        "highlights": [
+          "Lead Generation",
+          "Sales Team Lead"
+         ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "SKP Engineering College",
+        "url": "https://skpec.edu.in/",
+        "area": "Engineering",
+        "studyType": "Bachelor",
+        "startDate": "02-07-2015",
+        "endDate": "14-04-2019",
+        "score": "5.64"        
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "Entery",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "Master",
+        "keywords": [
+          "Google Ads",
+          "Facebook And Instagram Ads",
+          "Mail Campaign"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "fluency": "Native speaker",
+        "language1": "English",
+        "fluency1":  "Excelent"    
+      }
+    ]
+         
+ }
